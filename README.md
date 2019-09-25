@@ -1,3 +1,6 @@
+![plattform](https://img.shields.io/badge/Plattform-Qiskit%20Python%203-blue)
+![language](https://img.shields.io/badge/Languages-Espanol%2C%20English-green)
+
 # Machine Learning Cuantico con Qiskit
 ## Tutorial impartido en la semana de MAC FES
 ### Dr. Pablo Rivas - Marist College
